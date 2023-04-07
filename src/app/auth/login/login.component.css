@@ -1,0 +1,14 @@
+.main-container{
+    height: 100vm;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.login-card{
+    padding: 10px 0px;
+}
+.button-text{
+    padding: 10px 0px;
+}
